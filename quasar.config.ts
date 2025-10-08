@@ -39,8 +39,8 @@ export default defineConfig((/* ctx */) => {
 
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/quasar-config-file#build
     build: {
-      // publicPath: '/',
-      vueRouterMode: 'hash', // available values: 'hash', 'history'
+      vueRouterMode: 'hash',
+      publicPath: '/319-Chindanai-Oiuchearn/', // available values: 'hash', 'history'
 
       // webpackTranspile: false,
 
